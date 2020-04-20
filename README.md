@@ -6,7 +6,8 @@ Play minesweeper from the comfort of your terminal.
 
 ## Building / Installation
 `make all` for building.
-`make install` for installing (requires `sudo` most likely).
+
+`make install` for installing to `/usr/local/bin/` (requires `sudo` most likely).
 
 ### Work in Progress
 * User input for mine amount, dimensions
